@@ -1,4 +1,4 @@
-# superstore-excel-dashboard (Excel)
+# Superstore-Sales-Dashboard | Excel Project
 An interactive Excel dashboard analyzing sales, profit, orders, and customer segments using the Superstore dataset.
 
 ## Dashboard preview
@@ -28,11 +28,11 @@ and Combo Charts.
 | # | Finding | Implication |
 |---|---|---|
 | 1 | 12.47% profit margin on $2.30M sales | Discounting or cost structure needs review |
-| 2 | West leads sales at $725K; South at $392K | 2x regional gap — marketing opportunity |
-| 3 | Copiers ($56K) are the top profit sub-category | High-margin products to prioritise |
+| 2 | West leads sales at $725K; South is lowest at $392K | 2x regional gap — marketing opportunity |
+| 3 | Copiers ($56K) are the top profit sub-category | High-margin products should be prioritised |
 | 4 | Consumer segment = 52% of all orders | Core audience to retain and grow |
 | 5 | Standard Class = 60% of shipments | Logistics optimisation opportunity |
-| 6 | Sales grew toward 2017; profit did not always follow | Discounting likely eroding margins |
+| 6 | Sales grew toward 2017, but profit did not always follow | Discounting may be affecting profitability |
 
 ---
 
@@ -65,8 +65,19 @@ and Combo Charts.
 ## Tools Used
 `Microsoft Excel` — Pivot Tables · Pivot Charts · Slicers · Combo Charts · KPI Cards
 
+## Skills Demonstrated
+- Data cleaning and formatting in Excel
+- Pivot Tables and Pivot Charts
+- KPI creation
+- Slicer-based interactivity
+- Sales and profit analysis
+- Business insight generation
+- Dashboard presentation
+
 ## How to Use
 1. Download `Superstore_sales_dataset.xlsx`
 2. Open in Microsoft Excel (2016 or later)
 3. Go to the **Dashboard** tab
 4. Use the Region / Category / Year slicers to filter all charts simultaneously
+
+Note: This is an Excel-based analytics project. The workbook contains the cleaned data, pivot tables, interactive dashboard, and insights sheet.
